@@ -37,21 +37,21 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 ## Datamime : comment ça marche ? 
 
 
-1. (si vous n'avez pas d'échantillon) Crééz un tableur ou un fichier .csv dans lequel vous mettez des valeurs fictives mais cohérentes par rapport au phénomène temporel représenté
+1.(si vous n'avez pas d'échantillon) Crééz un tableur ou un fichier .csv dans lequel vous mettez des valeurs fictives mais cohérentes par rapport au phénomène temporel représenté
 
 > **Exemple**
 > 
 > Vous voulez travailler avec des données sur la concentration de polluants atmosphériques heure par heure. Vous savez que la concentration est corrélée avec l'activité humaine (intense le jour, faible la nuit). Dès lors, vous pouvez créer un tableur dans lequel les valeurs de concentration augmente de 9h à 16h et baisse de 16h à 9h. 
 
-2. (si vous avez un échantillon) Uploadez l'échantillon dans Datamime
+2.(si vous avez un échantillon) Uploadez l'échantillon dans Datamime
 
-3. Choisissez la variable/colonne qui contient la date et l'heure et renseignez la dans la liste déroulante "Time variable"
+3.Choisissez la variable/colonne qui contient la date et l'heure et renseignez la dans la liste déroulante "Time variable"
 
 > **Exemple**
 > 
 > La date et l'heure à laquelle la concentration de polluants atmosphériques est mesurée se trouve dans la colonne "date_debut". Dans la liste déroulante "Time variable", choisissez "date_debut"
 
-4. Choisissez les caractéristiques qui déterminent une série temporelle et renseignez les dans la liste déroulante "Sub samples"
+4.Choisissez les caractéristiques qui déterminent une série temporelle et renseignez les dans la liste déroulante "Sub samples"
 
 > **Exemple**
 > 
