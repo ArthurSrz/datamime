@@ -1,4 +1,8 @@
-![img.png|50x50](https://raw.githubusercontent.com/ArthurSrz/datamime/main/logo_datamime.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArthurSrz/datamime/main/logo_datamime.png" width="300"/>
+</p>
+
+![]()
 
 ## WTF Datamime ?
 
