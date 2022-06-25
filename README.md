@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArthurSrz/datamime/main/logo_datamime.png" width="300"/>
-</p>
+![](https://raw.githubusercontent.com/ArthurSrz/datamime/main/logo_datamime.png)
 
-![]()
 
 ## WTF Datamime ?
 
