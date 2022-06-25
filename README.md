@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/ArthurSrz/datamime/main/logo_datamime.png)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArthurSrz/datamime/main/logo_datamime.png" alt="animated" />
 </p>
