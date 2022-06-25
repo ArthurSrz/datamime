@@ -14,13 +14,13 @@ On rencontre souvent des collectivités, des entreprises qui organisent ou parti
 
 > "Des données, on en a plein et on ne sait pas quoi en faire"
 >
-> Jojo Data Manager, 3 mois avant le hackathon
+> **Jojo Data Manager**, 3 mois avant le hackathon
 
 Alors qu'en réalité : 
 
 > "Avec mes équipes, nous n'avons pas le temps nécessaire pour extraire et créer les données. Vous comprenez, c'est compliqué. Mais je peux vous transmettre un fichier excel de 10 lignes"
 >
-> Jojo Data Manager, 3 jours avant le hackathon
+> **Jojo Data Manager**, 3 jours avant le hackathon
 
 
 ### Pour tout ceux qui ne veulent pas attendre de disposer de vraies données 
