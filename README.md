@@ -55,8 +55,21 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 
 > **Exemple**
 > 
-> A chaque moment de mesure (voir variable "date_debut") est spécifié la station de mesure, le type de polluant atmosphérique mesuré et la valeur de la concentration. Renseignez ces valeurs dans la liste déroulante "Sub samples"
+> A chaque moment de mesure (voir variable "date_debut") est spécifié la station de mesure et le type de polluant atmosphérique. Renseignez ces valeurs dans la liste déroulante "Sub samples"
+
+5.Choisissez la variable qui contient la valeur mesurée et renseignez la dans la liste déroulante "Value"
+
+> **Exemple**
+> 
+> La valeur qui mesure la concentration de polluants atmosphérique se trouve dans la variable "valeur". Renseignez la dans la liste déroulante "Value"
 
 
+6.Datamime créé autant de modèles que de séries temporelles présentes dans le jeu de données
+
+> **Exemple**
+> 
+> Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. 
+
+7.
 
 
