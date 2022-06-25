@@ -64,12 +64,15 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 > La valeur qui mesure la concentration de polluants atmosphérique se trouve dans la variable "valeur". Renseignez la dans la liste déroulante "Value"
 
 
-6.Datamime créé autant de modèles que de séries temporelles présentes dans le jeu de données. Les modèles s'affichent sous l'onglet "Dataset description" dans l'interface principale
+6.Datamime créé autant de modèles que de séries temporelles présentes dans le jeu de données. Les modèles s'affichent dans la section "Data exploration" dans l'interface principale
 
 > **Exemple**
 > 
 > Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. 
 
-7.A partir du modèle créé, Datamime va générer un nouveau jeu de données. Vous pouvez le type de données générées ainsi que le volume dont vous avez besoin. Pour cela, 
+7.A partir du modèle créé, Datamime va générer un nouveau jeu de données. Vous pouvez spécifier le type de données générées ainsi que le volume dont vous avez besoin. Pour cela, dans la colonne de gauche, vous pourrez spécifier si vous voulez des données de type "integer" ou des données positives ainsi 
 
+> **Exemple**
+> 
+> Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. 
 
