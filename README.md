@@ -70,9 +70,9 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 > 
 > Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. 
 
-7.A partir du modèle créé, Datamime va générer un nouveau jeu de données. Vous pouvez spécifier le type de données générées ainsi que le volume dont vous avez besoin. Pour cela, dans la colonne de gauche, vous pourrez spécifier si vous voulez des données de type "integer" ou des données positives ainsi 
+7.A partir du modèle créé, Datamime va générer un nouveau jeu de données. Vous pouvez spécifier le type de données que vous souhaitez générer ainsi que le volume dont vous avez besoin. Pour cela, dans la colonne de gauche, vous pourrez spécifier si vous voulez des données de type "integer" ou des données positives ainsi que la longueur des nouvelles séries temporelles à générer. 
 
 > **Exemple**
 > 
-> Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. 
+> Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. Vous pouvez également spécifier que vous souhaitez avoir de nouvelles séries temporelles couvrant une période donnée (entre une date de départ et une date de fin)
 
