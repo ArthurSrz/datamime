@@ -10,7 +10,7 @@ Datamime adresse le problème du manque récurrent de jeux de données ouverts, 
 
 ## Datamime : pourquoi, pour qui et comment? 
 
-### Une alternative à la désillusion post-"Des données, j'en ai plein"...
+#### Une alternative à la désillusion post-"Des données, j'en ai plein"...
 
 On rencontre souvent des collectivités, des entreprises qui organisent ou participent à un hackathon/datathon parce que :
 
@@ -25,7 +25,7 @@ Alors qu'en réalité :
 > **Jojo Data Manager**, 3 jours avant le hackathon
 
 
-### Pour tout ceux qui ne veulent pas attendre de disposer de vraies données 
+#### Pour tout ceux qui ne veulent pas attendre de disposer de vraies données 
 
 Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et qui finalement doivent attendre longtemps (très longtemps, trop longtemps) pour commencer à bosser sur leur appli ou sur leur modèle. 
 
@@ -34,7 +34,7 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 </p>
 
 
-### Datamime : comment ça marche ? 
+## Datamime : comment ça marche ? 
 
 
 1. (si vous n'avez pas d'échantillon) Crééz un tableur ou un fichier .csv dans lequel vous mettez des valeurs fictives mais cohérentes par rapport au phénomène temporel représenté
