@@ -1,4 +1,4 @@
-# Datamime
+![img.png|50x50](https://raw.githubusercontent.com/ArthurSrz/datamime/main/logo_datamime.png)
 
 ## WTF Datamime ?
 
