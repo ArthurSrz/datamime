@@ -51,11 +51,11 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 > 
 > La date et l'heure à laquelle la concentration de polluants atmosphériques est mesurée se trouve dans la colonne "date_debut". Dans la liste déroulante "Time variable", choisissez "date_debut"
 
-4.Choisissez les caractéristiques qui déterminent une série temporelle et renseignez les dans la liste déroulante "Sub samples"
+4.Choisissez les caractéristiques qui déterminent la série temporelle et renseignez les dans la liste déroulante "Sub samples". Plus vous sélectionnerez de caractéritiques, plus les modèles qui seront générés seront spécifiques (voir étape 6)
 
 > **Exemple**
 > 
-> A chaque moment de mesure (voir variable "date_debut") est spécifié la station de mesure et le type de polluant atmosphérique. Renseignez ces valeurs dans la liste déroulante "Sub samples"
+> A chaque moment de mesure (voir variable "date_debut") est spécifié la station de mesure et le type de polluant atmosphérique. Renseignez ces valeurs dans la liste déroulante "Sub samples". En renseignant ces valeurs, Datamime va générer des modèle pour chaque station de mesure et pour chaque type de polluant.
 
 5.Choisissez la variable qui contient la valeur mesurée et renseignez la dans la liste déroulante "Value"
 
@@ -64,12 +64,12 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 > La valeur qui mesure la concentration de polluants atmosphérique se trouve dans la variable "valeur". Renseignez la dans la liste déroulante "Value"
 
 
-6.Datamime créé autant de modèles que de séries temporelles présentes dans le jeu de données
+6.Datamime créé autant de modèles que de séries temporelles présentes dans le jeu de données. Les modèles s'affichent sous l'onglet "Dataset description" dans l'interface principale
 
 > **Exemple**
 > 
 > Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. 
 
-7.
+7.A partir du modèle créé, Datamime va générer un nouveau jeu de données. Vous pouvez le type de données générées ainsi que le volume dont vous avez besoin. Pour cela, 
 
 
