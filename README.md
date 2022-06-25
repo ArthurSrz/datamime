@@ -76,3 +76,17 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 > 
 > Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. Vous pouvez également spécifier que vous souhaitez avoir de nouvelles séries temporelles couvrant une période donnée (entre une date de départ "Start date" et une date de fin "End date")
 
+## Installation
+
+```commandline
+pip install -r requirement.txt
+```
+
+## Lancer le projet
+```commandline
+streamlit run main.py 
+```
+
+## Fichier d'exemple
+
+Le fichier `example.csv` peut être utilisé pour tester d'outil
