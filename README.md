@@ -3,14 +3,14 @@
 </p>
 
 
-## WTF Datamime ?
+# WTF Datamime ?
 
 Datamime adresse le problème du manque récurrent de jeux de données ouverts, de volume et de qualité suffisante pour permettre le développement de modèles ou d'applications (notamment dans le cadre de Hackathon). Datamime propose un générateur de données mimétiques, qui, sur la base d'un petit échantillon ou tout simplement d'un modèle, voire d'un début d'embryon de connaissances sur un jeu de données, permet de produire un jeu de données suffisamment volumineux pour initier un travail de développement technique. 
 
 
-## Datamime : pourquoi et pour qui ? 
+# Datamime : pourquoi et pour qui ? 
 
-#### Une alternative à la désillusion post-"Des données, j'en ai plein"...
+### Une alternative à la désillusion post-"Des données, j'en ai plein"...
 
 On rencontre souvent des collectivités, des entreprises qui organisent ou participent à un hackathon/datathon parce que :
 
@@ -28,7 +28,7 @@ Résultat : panique 😱 pour les organisateurs, déception 😞 pour les partic
 
 Datamime se veut être une alternative à cette désillusion en permettant de générer suffisamment de données à partir d'un petit échantillon, d'un modèle ou tout simplement d'une vague idée de la forme des données. 
 
-#### Pour tout ceux qui ne veulent pas attendre de disposer de vraies données 
+### Pour tout ceux qui ne veulent pas attendre de disposer de vraies données 
 
 Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et qui finalement doivent attendre longtemps (très longtemps, trop longtemps) pour commencer à bosser sur leur appli ou sur leur modèle. 
 
@@ -37,7 +37,7 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 </p>
 
 
-## Datamime : comment ça marche ? 
+# Datamime : comment ça marche ? 
 
 
 1.(si vous n'avez pas d'échantillon) Crééz un tableur ou un fichier .csv dans lequel vous mettez des valeurs fictives mais cohérentes par rapport au phénomène temporel représenté
@@ -79,17 +79,17 @@ Datamime s'adresse aux impatients, à ceux qui pensaient avoir des données et q
 > 
 > Datamime va créer un modèle par station et par polluant atmosphérique. Il y a aura donc un modèle pour la concentration de CO2 à la station de mesure du Havre, un modèle pour la concentration de NO2 à la station de Rouen, etc. Vous pouvez également spécifier que vous souhaitez avoir de nouvelles séries temporelles couvrant une période donnée (entre une date de départ "Start date" et une date de fin "End date")
 
-## Installation
+# Installation
 
 ```commandline
 pip install -r requirement.txt
 ```
 
-## Lancer le projet
+# Lancer le projet
 ```commandline
 streamlit run main.py 
 ```
 
-## Fichier d'exemple
+# Fichier d'exemple
 
 Le fichier `example.csv` peut être utilisé pour tester d'outil
