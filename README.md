@@ -24,6 +24,9 @@ Alors qu'en réalité :
 >
 > **Jojo Data Manager**, 3 jours avant le hackathon
 
+Résultat : panique 😱 pour les organisateurs, déception 😞 pour les participants et désillusion pour tout le monde car il n'y aura pas (suffisamment) de données. 
+
+Datamime se veut être une alternative à cette désillusion en permettant de générer suffisamment de données à partir d'un petit échantillon, d'un modèle ou tout simplement d'une vague idée de la forme des données. 
 
 #### Pour tout ceux qui ne veulent pas attendre de disposer de vraies données 
 
